@@ -28,7 +28,7 @@
   * ITIL v3 Framework (IT Service Management)
 * **Security, Risk & Compliance:**
   * Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-  * ISO 27001:2013 Lead Implementer (Information Security Management Systems)
+  * ISO 27001:2013 Implementer (Information Security Management Systems)
 * **Cloud Infrastructure:**
   * Microsoft Certified: Azure Fundamentals (AZ-900)
 
