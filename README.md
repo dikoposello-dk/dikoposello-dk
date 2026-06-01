@@ -3,7 +3,7 @@
 
 **Current Status:** 2nd-Year BBA in Business Management Student at Botho University (480-Credit Track). Balancing academic milestones with a solid corporate background in multinational ICT Coordination. 
 
-## 🎯 Target Strategic Alignment (Post-Graduation @ Age 36)
+## 🎯 Target Strategic Alignment (Post-Graduation)
 * **Primary Target:** IT Project Coordinator | PMO Analyst | Junior IT Business Analyst
 * **Location Focus:** Amsterdam, Netherlands (Targeting IND-Sponsor tracks)
 * **Core Competencies:** Agile Project Tracking, IT Service Management (ITSM), Governance, Risk & Compliance (GRC), Cloud Infrastructure
