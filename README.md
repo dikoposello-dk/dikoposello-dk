@@ -1,43 +1,46 @@
 ## Hi there 👋
-# 🎓 BBA Student | IT Project Coordinator & Business Systems Analyst
+# 🎓 BBA Student | IT Project & Business Systems Tracker
 
-**Current Status:** 2nd-Year BBA in Business Management Student at Botho University (480-Credit Track). Balancing academic milestones with a solid corporate background in multinational ICT Coordination. 
-
-## 🎯 Target Strategic Alignment (Post-Graduation)
-* **Primary Target:** IT Project Coordinator | PMO Analyst | Junior IT Business Analyst
-* **Location Focus:** Amsterdam, Netherlands (Targeting IND-Sponsor tracks)
-* **Core Competencies:** Agile Project Tracking, IT Service Management (ITSM), Governance, Risk & Compliance (GRC), Cloud Infrastructure
+**Current Status:** 2nd-Year Student pursuing a Bachelor of Business Administration (BBA) in Business Management at Botho University (480-Credit Track). 
+* 📍 **Current Milestone:** Completed Semester 1 (60 Credits), Pending Semester 2 Results, Commencing Semester 3 in August 2026.
+* ⚡ **Daily Execution Strategy:** Managing core academic modules in focused 30-45 minute study sprints.
 
 ---
 
-## 📅 Live Learning & Portfolio Progress Tracker
-*This section is updated weekly during my academic holiday sprint to display live skills acquisition.*
+## 📈 Academic Project Ledger & Progress Tracker
 
-* **Week 1 (Current):** 🛠️ Mastering Core Spreadsheet Data Structures & Absolute Cell Locking (`$`).
-* **Week 2 (Upcoming):** ⏳ Introduction to Logical Functions (`IF`, `AND`, `OR`).
-* **Week 3 (Upcoming):** ⏳ Data Cleaning Frameworks (`TRIM`, `PROPER`, `CLEAN`).
-* **Week 4 (Upcoming):** ⏳ Relational Data Indexing (`XLOOKUP`, `IFERROR`).
-* **Week 5 (Upcoming):** ⏳ Analytical Data Modeling (Pivot Tables & Interactive Slicers).
-* **Week 6 (Upcoming):** ⏳ Executive Reporting (Building Functional Operational Dashboards).
+### ✅ Semester 1: Foundation Pillars (Completed | 60 Credits)
+* `C5-IMO-20` Introduction to MS Office (10 Credits)
+* `D5-AWB-20` Academic Writing for Business (10 Credits)
+* `B5-BS1-17` Business Mathematics & Statistics 1 (10 Credits)
+* `B6-MIE-17` Microeconomics (10 Credits)
+* `A5-IFA-20` Introduction to Financial Accounting (10 Credits)
+* `B5-BM1-20` Business Management 1 (10 Credits)
+
+### ⏳ Semester 2: Operational Core (Completed / Pending Results | 60 Credits)
+* `B5-PMK-20` Principles of Marketing (10 Credits)
+* `B5-BS2-17` Business Mathematics & Statistics 2 (10 Credits)
+* `B6-MAE-17` Macroeconomics (10 Credits)
+* `B5-LAB-20` Legal Aspects of Business (10 Credits)
+* `A6-FA1-17` Financial Accounting 1 (10 Credits)
+* `A5-RM1-20` Risk Management 1 (10 Credits)
+
+### 🛠️ Semester 3: Upcoming Sprint (Launching August 2026 | 60 Credits)
+* `B6-BM2-20` Business Management 2 (10 Credits)
+* `B6-FFM-20` Fundamentals of Financial Management (10 Credits)
+* `A6-FA2-17` Financial Accounting 2 (10 Credits)
+* `B6-OBE-20` Organisational Behaviour (10 Credits)
+* `A6-COA-20` Cost Accounting (20 Credits) — *Double Weight Module*
 
 ---
 
-## 💼 Professional Certifications & Toolkit
-* **Project & Service Governance:** 
-  * CompTIA Project+ Certified 🎓 *(Granted Botho University Module Exemption)*
-  * ITIL v3 Framework (IT Service Management)
-* **Security, Risk & Compliance:**
-  * Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-  * ISO 27001:2013 Implementer (Information Security Management Systems)
-* **Cloud Infrastructure:**
-  * Microsoft Certified: Azure Fundamentals (AZ-900)
+## 💼 Professional Certifications & Corporate Alignment
+*Bridging corporate IT governance frameworks with my BBA degree to target mid-level PMO and System Analyst tracks.*
 
----
+* **Project & Service Governance:** CompTIA Project+ Certified 🎓 | ITIL v3 Framework (ITSM)
+* **Cloud & Infrastructure:** Microsoft Azure Fundamentals (AZ-900)
+* **Security & Compliance:** Microsoft Security, Compliance, and Identity Fundamentals (SC-900) | ISO 27001:2013 Implementer
 
-## 📚 Academic Integration (Botho University BBA Pillars)
-* **Technical Architecture:** Business Information Systems & E-Business Architectures.
-* **Logistical Infrastructure:** Transport and Logistics Management (Optimizing modern hub-and-spoke economies).
-* **Change Governance:** Strategic Focus on Change Management (Enterprise software and infrastructure migrations).
 
 <!--
 **dikoposello-dk/dikoposello-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
